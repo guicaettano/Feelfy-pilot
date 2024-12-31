@@ -1,4 +1,4 @@
-# Feelfy-pilot
+# Feelfy - Sentiment Analysis App
 
 # Overview
 Feelfy is a user-friendly sentiment analysis application designed to process user-provided text and output a sentiment score ranging from -1 (very negative) to 1 (very positive). The app utilizes advanced natural language processing techniques and a streamlined interface to provide users with an intuitive experience.
