@@ -1,9 +1,9 @@
 # Feelfy-pilot
 
-#Overview
+# Overview
 Feelfy is a user-friendly sentiment analysis application designed to process user-provided text and output a sentiment score ranging from -1 (very negative) to 1 (very positive). The app utilizes advanced natural language processing techniques and a streamlined interface to provide users with an intuitive experience.
 
-#Features
+# Features
 Sentiment Analysis: Input any text and receive a sentiment score that quantifies the emotional tone of the content.
 Score Range:
 -1.0: Strongly Negative Sentiment
@@ -19,24 +19,4 @@ How It Works
 User Input: Enter a text snippet or upload a file via the app interface.
 Sentiment Scoring: The app processes the text and calculates a sentiment score.
 Results: The sentiment score is displayed, providing insights into the emotional tone of the input text.
-Installation and Setup
-Clone the repository:
 
-bash
-Copiar código
-git clone https://github.com/your-username/feelfy.git
-cd feelfy
-Install dependencies:
-
-bash
-Copiar código
-pip install -r requirements.txt
-Run the app locally:
-
-bash
-Copiar código
-streamlit run app.py
-Future Improvements
-Incorporation of additional insights, such as sentiment reasoning or emotion categories.
-Multilingual support for analyzing text in various languages.
-Enhanced visualizations for sentiment trends over time.
